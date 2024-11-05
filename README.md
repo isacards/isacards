@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @isacards
-- 👀 I’m interested in music, movies and makeup!
+- 👋 Hi, I’m Isabela
+- 👀 I’m interested in music, movies and cybersecurity!
 - 🌱 I’m currently learning python!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i really like the color blue!
